@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="support-fragment-25.2.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/b3a6e69afe4a97e48a58f3d754e5e9fdffe1e2cb/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b3a6e69afe4a97e48a58f3d754e5e9fdffe1e2cb/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
